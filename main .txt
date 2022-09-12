@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+
+</head>
 <body>
 
-<title> this is my web site </title>
+<h1> hi </h1>
 
 </body>
 
